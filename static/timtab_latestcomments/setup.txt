@@ -1,0 +1,14 @@
+# setup
+
+plugin.tx_timtablatestcomments_pi1 {
+	listCount = 5
+	comment {
+		maxCharCount = 100
+	}
+	linkComments = 1
+	commentsPid = 0
+	authorWrap.wrap = <p class="author">|</p>
+	entryWrap.wrap = <p class="entry">|</p>
+	itemWrap.wrap = <div class="latestCommentEntry">|</div>
+	allWrap.wrap = <div class="latestComments">|</div>
+}

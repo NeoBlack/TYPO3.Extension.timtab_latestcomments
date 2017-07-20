@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for extension 'timtab_latestcomments'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pi1_title">latest comments</label>
+			<label index="pi1_plus_wiz_description">this extension shows a list of latest comments on your blog entrys.</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="pi1_title">Letzte Kommentare</label>
+			<label index="pi1_plus_wiz_description">Zeigt die letzten Kommentare aus Deinem Blog</label>
+		</languageKey>
+	</data>
+</T3locallang>
